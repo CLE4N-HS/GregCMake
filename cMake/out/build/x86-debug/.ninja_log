@@ -1,0 +1,5 @@
+# ninja log v5
+7	370	7597587146530926	library/CMakeFiles/tools.dir/tools.cpp.obj	cf3b1caec5ff6011
+371	405	7597587146856495	library/tools.lib	8773df2394e88f9e
+4	847	7597587151287266	src/CMakeFiles/cMake.dir/cMake.cpp.obj	23f4572baf083a1f
+848	1312	7597587153113187	src/cMake.exe	8c3fd6eacb7fb834
