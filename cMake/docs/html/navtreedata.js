@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", ]
+  [ "My Project Teddy", "index.html", ]
 ];
 
 var NAVTREEINDEX =
