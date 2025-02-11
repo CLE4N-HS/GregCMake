@@ -18,6 +18,11 @@ float randomFloat(float min, float max);
 /**
 * @brief Lerp between two values
 * 
-* @param v0 
+* @param v0 First
+* @param v1 Second
+* @param t Third
+* 
+* @warning t must be between 0 and 1
+* 
 */
 float lerp(float v0, float v1, float t);
