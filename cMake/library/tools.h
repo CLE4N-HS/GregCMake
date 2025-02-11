@@ -14,4 +14,10 @@
 //sf::Vector2f polarCoord(sf::Vector2f const& _a, float const& _r, float const& _teta);
 int randomInt(int min, int max);
 float randomFloat(float min, float max);
+
+/**
+* @brief Lerp between two values
+* 
+* @param v0 
+*/
 float lerp(float v0, float v1, float t);
