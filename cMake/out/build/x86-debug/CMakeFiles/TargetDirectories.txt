@@ -1,8 +1,8 @@
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/edit_cache.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/src/CMakeFiles/cMake.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/src/CMakeFiles/edit_cache.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/src/CMakeFiles/rebuild_cache.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/library/CMakeFiles/tools.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/library/CMakeFiles/edit_cache.dir
-C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/library/CMakeFiles/rebuild_cache.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/edit_cache.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/src/CMakeFiles/cMake.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/library/CMakeFiles/tools.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/library/CMakeFiles/edit_cache.dir
+C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/library/CMakeFiles/rebuild_cache.dir

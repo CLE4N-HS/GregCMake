@@ -39,7 +39,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/3.28.3-msvc11/CompilerIdC/CMakeCCompilerId.exe
+        C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/3.28.3-msvc11/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -51,7 +51,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        Remarque : inclusion du fichier :  C:\\Users\\n.cleenewerck\\source\\repos\\cMake\\out\\build\\x86-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        Remarque : inclusion du fichier :  C:\\Users\\n.cleenewerck\\Documents\\GitHub\\GregCMake\\cMake\\out\\build\\x86-debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Remarque : inclusion du fichier :  "
   -
@@ -85,7 +85,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/3.28.3-msvc11/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/3.28.3-msvc11/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -97,7 +97,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        Remarque : inclusion du fichier :  C:\\Users\\n.cleenewerck\\source\\repos\\cMake\\out\\build\\x86-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        Remarque : inclusion du fichier :  C:\\Users\\n.cleenewerck\\Documents\\GitHub\\GregCMake\\cMake\\out\\build\\x86-debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Remarque : inclusion du fichier :  "
   -
@@ -109,14 +109,14 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-w7whjd"
-      binary: "C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-w7whjd"
+      source: "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-ona988"
+      binary: "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-ona988"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
       CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
-      VCPKG_INSTALLED_DIR: "C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/vcpkg_installed"
+      VCPKG_INSTALLED_DIR: "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/vcpkg_installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x86-windows"
       Z_VCPKG_ROOT_DIR: "C:/Users/n.cleenewerck/vcpkg"
@@ -124,11 +124,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-w7whjd'
+        Change Dir: 'C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-ona988'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_062c0
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_062c0.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_062c0.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_062c0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_062c0.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_062c0.exe /implib:cmTC_062c0.lib /pdb:cmTC_062c0.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_93e17
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_93e17.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_93e17.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_93e17.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_93e17.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_93e17.exe /implib:cmTC_93e17.lib /pdb:cmTC_93e17.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -140,14 +140,14 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-l8p90u"
-      binary: "C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-l8p90u"
+      source: "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-uis9a5"
+      binary: "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-uis9a5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
       CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
-      VCPKG_INSTALLED_DIR: "C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/vcpkg_installed"
+      VCPKG_INSTALLED_DIR: "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/vcpkg_installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x86-windows"
       Z_VCPKG_ROOT_DIR: "C:/Users/n.cleenewerck/vcpkg"
@@ -155,11 +155,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/n.cleenewerck/source/repos/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-l8p90u'
+        Change Dir: 'C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-uis9a5'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3976b
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_3976b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_3976b.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_3976b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_3976b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_3976b.exe /implib:cmTC_3976b.lib /pdb:cmTC_3976b.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_391ab
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_391ab.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_391ab.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_391ab.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_391ab.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_391ab.exe /implib:cmTC_391ab.lib /pdb:cmTC_391ab.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

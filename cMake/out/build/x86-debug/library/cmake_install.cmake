@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/n.cleenewerck/source/repos/cMake/library
+# Install script for directory: C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/library
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/n.cleenewerck/source/repos/cMake/out/install/x86-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/n.cleenewerck/Documents/GitHub/GregCMake/cMake/out/install/x86-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
