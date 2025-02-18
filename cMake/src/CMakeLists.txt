@@ -31,3 +31,29 @@ target_link_libraries(${PROJECT_NAME} PRIVATE
 	sfml-window
 	sfml-network
 )
+
+# set(CMAKE_PCH_INSTANTIATE_TEMPLATES ON)
+
+# target_precompile_headers(mylib PRIVATE
+# 	$<$<CONFIG:Debug>:debug_pch.h>$<$<CONFIG:Release>:release_pch.h>
+# )
+
+# target_precompile_headers(project_pch PRIVATE <vector> <string>
+# 	"project/common_header.hpp"
+# )
+
+# set_source_files_properties(a_desactiver.cpp PROPERTIES
+# 	SKIP_PRECOMPILE_HEADERS ON
+# )
+
+
+
+# target_precompile_headers(${PROJECT_NAME}
+# 	PRIVATE
+# 		"${CMAKE_SOURCE_DIR}/include/dev1/include"
+# )
+
+# target_compile_definitions(${PROJECT_NAME}
+# 	PRIVATE
+# 		EXECUTABLE_DIR="$<TARGET_FILE_DIR:${PROJECT_NAME}>"
+# )
